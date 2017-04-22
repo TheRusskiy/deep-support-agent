@@ -1,0 +1,10 @@
+data/
+save.*
+checkpoint
+requirements.txt
+preprocess.p
+params.p
+.ipynb_checkpoints/
+__pycache__
+server/__pycache__
+*.pyc
